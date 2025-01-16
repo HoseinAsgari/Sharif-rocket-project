@@ -1,0 +1,47 @@
+Add 5 Rocket FALCON with initial  fuel amount of 20 and weight of 100
+
+Add 2 Rocket ATLAS with initial  fuel amount of 90 and weight of 400
+
+Add 1 Rocket SOYAZ with initial  fuel amount of 250 and weight of 800
+
+Add 1 Rocket SHUTTLE with initial  fuel amount of 150 and weight of 300
+
+Add 3 Rocket DELTA with initial  fuel amount of 200 and weight of 700
+
+
+
+
+
+Add Rocket Launch Pad P_54 in 200 and with max force 25000
+
+Add Rocket Launch Pad SEMNAN in 500 and with max force 50000
+
+Add Rocket Launch Pad KARAJ in 900 and with max force 70000
+
+Add Rocket Launch Pad ELON_MUSK in 100 and with max force 20000
+
+Add Rocket Launch Pad MARCH in 1100 and with max force 20000
+
+
+
+
+Print remaining rockets
+2 Rockets of ATLAS
+3 Rockets of DELTA
+5 Rockets of FALCON
+1 Rockets of SHUTTLE
+1 Rockets of SOYAZ
+
+
+
+Shoot target 300 100
+The target was destroyed by launching ATLAS rocket from KARAJ launch pad
+
+Shoot target 550 500
+The target was destroyed by launching ATLAS rocket from SEMNAN launch pad
+
+Shoot target 550 500
+The target was destroyed by launching SHUTTLE rocket from SEMNAN launch pad
+
+Shoot target 550 500
+Target is unreachable
