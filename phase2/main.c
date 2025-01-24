@@ -4,7 +4,6 @@
 #include <math.h>
 #include <float.h>
 
-// ساختار داده‌ها
 typedef struct
 {
     char name[50];

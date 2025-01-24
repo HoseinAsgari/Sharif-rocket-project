@@ -1,0 +1,9 @@
+Add 5 Rocket ROCKET1 with initial fuel amount of 21 and weight of 40
+Add 5 Rocket ROCKET2 with initial fuel amount of 30 and weight of 45
+Add Rocket Launch Pad LOUNCHPAD1 in 100 and with max force 20000
+Add Rocket Launch Pad LOUNCHPAD2 in 200 and with max force 30000
+Add Target x: 120 y: 100 point: 30
+Add Target x: 180 y: 300 point: 40
+Add Target x: 200 y: 100 point: 50
+
+War with fuel budget 50
